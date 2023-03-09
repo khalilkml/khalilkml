@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 # 💫 About Me:
-- 💻️ I’m currently working on content a android app using java <br>
+- 💻️ I’m currently working on an android app using java <br>
 - 🤔 i'm looking for help with automation testing <br>
-- 🔭 I’m currently learning  to connect with online/offline data base <br>
+- 🔭 I’m currently learning how to connect with online/offline data base <br>
 - 💬 ask me about android apps developing with java <br>
-- ⚡ Fun fact - I am lazy but curious,smart,i ask a lote< br>
+- ⚡ Fun fact - I am lazy but curious, smart, i ask a lote -< br>
 
 
 
