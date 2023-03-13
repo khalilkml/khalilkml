@@ -8,7 +8,7 @@
 - 🤔 i'm looking for help with automation testing <br>
 - 🔭 I’m currently learning how to connect with online/offline data base <br>
 - 💬 ask me about android apps developing with java <br>
-- ⚡ Fun fact - I am lazy but curious, smart, i ask a lote -< br>
+- ⚡ Fun fact - I am lazy but curious, smart, i ask a lote <br>
 
 
 
