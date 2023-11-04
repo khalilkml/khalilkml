@@ -4,9 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 # 💫 About Me:
-- 💻️ I’m currently working on an android app using java <br>
-- 🤔 i'm looking for help with automation testing <br>
-- 🔭 I’m currently learning how to connect with online/offline data base <br>
+- 💻️ I’m currently working on an android app using java android studio <br>
+- 🔭 I’m currently learning how to work with online/offline data base <br>
 - 💬 ask me about android apps developing with java <br>
 - ⚡ Fun fact - I am lazy but curious, smart, i ask a lote <br>
 
@@ -15,7 +14,7 @@
 
 
 # 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/khalil.kamily.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khalilkamily) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khalil-kamily-07a31a240) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19085630/khalil-kml) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kamily_khalil) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khalil-kamily-07a31a240) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19085630/khalil-kml) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kamily_khalil) 
 
 
 
