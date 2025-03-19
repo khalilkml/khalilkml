@@ -10,7 +10,7 @@
 - ⚡ Fun fact - I am lazy but curious, smart, i ask a lote <br>
 
 
-
+<img src="https://komarev.com/ghpvc/?username=khalilkml&label=Profile%20views&color=0e75b6&style=flat" alt="khalilkml" /> </p>
 
 
 # 🌐 Socials:
